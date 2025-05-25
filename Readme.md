@@ -1,25 +1,70 @@
-## Notebooks
+<h1 align="center">🦠 COVID-19 Analysis using Python</h1>
 
-## NY Times dataset
-The New York Times is releasing a series of data files with cumulative counts of coronavirus cases in the United States, at the state and county level, over time. They are compiling this time series data from state and local governments and health departments in an attempt to provide a complete record of the ongoing outbreak.
+<p align="center">
+  <i>Exploring the global impact of the pandemic through data, Python, and powerful visualizations</i>
+</p>
 
-Here is the NY Times Github repo: **https://github.com/nytimes/covid-19-data**
+<hr>
 
-### Notebook
-[Here is the demo Notebook with NY Times dataset](https://github.com/tirthajyoti/Covid-19-analysis/blob/master/Notebook/NYTCovid-test.ipynb)
+<h2>📌 Project Overview</h2>
+<p>
+This project analyzes global COVID-19 data using <b>Python</b> in <b>Jupyter Notebook</b>. It focuses on:
+<ul>
+  <li>Understanding worldwide COVID-19 trends</li>
+  <li>Analyzing country-wise infection and recovery rates</li>
+  <li>Visualizing data through dynamic plots and charts</li>
+</ul>
+</p>
 
-### Medium article
-Here is my Medium article about it: ***[Analyze NY Times Covid-19 Dataset](https://towardsdatascience.com/analyze-ny-times-covid-19-dataset-86c802164210)***
+<h2>📊 Technologies Used</h2>
+<ul>
+  <li>Python</li>
+  <li>Jupyter Notebook</li>
+  <li>Pandas</li>
+  <li>NumPy</li>
+  <li>Matplotlib</li>
+  <li>Seaborn</li>
+</ul>
 
----
+<h2>👥 Team Members</h2>
+<ul>
+  <li><b>Nezaal Ahmad</b></li>
+  <li><b>Mohd Junaid</b></li>
+  <li><b>Mohit Rajput</b></li>
+  <li><b>Radha Devi</b></li>
+</ul>
 
-## Simple SEIR (Susceptible-Exposed-Infectious-Recovered) modeling
-Even without venturing into actual predictive modeling, it is possible to demonstrate the efficacy of the only basic weapon that we all have against the COVID-19 virus - "social distancing" - by a simple programmatic approach.
+<h2>📁 Project Structure</h2>
+<pre>
+Covid-19-analysis/
+├── data/                # Dataset files
+├── notebooks/           # Jupyter notebooks
+├── images/              # Graphs and visualizations
+├── README.md            # Project documentation
+└── requirements.txt     # Python dependencies
+</pre>
 
-In this demo, we will show how to build such a demo in Python, following a simple yet fundamental epidemiological theory.
+<h2>🚀 How to Run the Project</h2>
+<ol>
+  <li>Clone the repository:
+    <pre>git clone https://github.com/YourUsername/Covid-19-analysis.git</pre>
+  </li>
+  <li>Install the dependencies:
+    <pre>pip install -r requirements.txt</pre>
+  </li>
+  <li>Launch Jupyter Notebook:
+    <pre>jupyter notebook</pre>
+  </li>
+</ol>
 
-### Notebook
-[Here is the demo notebook for the SEIR modeling](https://github.com/tirthajyoti/Covid-19-analysis/blob/master/Notebook/SEIR-demo.ipynb)
+<h2>📈 Sample Visualization</h2>
+<img src="images/covid_trend_sample.png" alt="Covid Cases Over Time" width="600"/>
 
-### Medium article
-Here is my Medium article about it: ***["Simple modeling of “flattening the curve” and “lifting lockdown”](https://towardsdatascience.com/simple-modeling-of-flattening-the-curve-and-lifting-lockdown-1a774a248e68)***
+<p><i>*Graph: COVID-19 confirmed cases over time*</i></p>
+
+<h2>📄 License</h2>
+<p>This project is for educational purposes only.</p>
+
+<hr>
+
+<p align="center"><i>"In data we trust — exploring the pandemic through Python."</i></p>
