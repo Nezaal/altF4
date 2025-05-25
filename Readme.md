@@ -62,9 +62,5 @@ Covid-19-analysis/
 
 <p><i>*Graph: COVID-19 confirmed cases over time*</i></p>
 
-<h2>📄 License</h2>
-<p>This project is for educational purposes only.</p>
+![image](https://github.com/user-attachments/assets/7cd92200-c448-49b4-b535-d91e0811257a)
 
-<hr>
-
-<p align="center"><i>"In data we trust — exploring the pandemic through Python."</i></p>
